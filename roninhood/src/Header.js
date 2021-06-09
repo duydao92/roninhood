@@ -11,9 +11,9 @@ function Header() {
             <div className="header__search">
                 <div className="header__searchContainer">
                     <input placeholder="Search" type="text"/>
-                </div> 
+                </div>
             </div>
-            <div className="header__menu">
+            <div className="header__menuItems">
                 <a href="#"> Porfolio</a>
                 <a href="#"> Cash</a>
                 <a href="#"> Friends</a>
