@@ -46,3 +46,7 @@
     font-weight: bold;
     text-decoration: none;
 }
+
+.header__menuItems a:hover {
+    color: #9d20bd;
+}
